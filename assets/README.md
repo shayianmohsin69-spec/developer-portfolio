@@ -1,0 +1,1 @@
+Add your original profile image to this folder as profile.jpg. The portfolio page loads it from assets/profile.jpg.
